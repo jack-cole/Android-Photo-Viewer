@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Filename: strings.xml
+ Author: Jack Cole
+ Class: CS211D T 7PM - 10PM
+ Due: 2017-05-23
+ Assignment: Homework 6
+-->
+<resources>
+  <string name="app_name">Homework 6</string>
+  <string name="prev_button">Prev</string>
+  <string name="next_button">Next</string>
+  <string name="slow_button">Slow</string>
+  <string name="fast_button">Fast</string>
+  <string name="auto_button">Auto</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Filename: sizes.xml
+ Author: Jack Cole
+ Class: CS211D T 7PM - 10PM
+ Due: 2017-05-23
+ Assignment: Homework 6
+-->
+<resources>
+  <dimen name="button_text_size">24dp</dimen>
+  <dimen name="button_padding">48sp</dimen>
+</resources>
